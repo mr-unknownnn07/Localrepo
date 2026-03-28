@@ -1,1 +1,1 @@
-This is oure Local Repo.
+This is our Local Repo.
